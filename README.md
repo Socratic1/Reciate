@@ -33,3 +33,7 @@
   - The code is open source, so it is important to be mindful of how it can be abused. We ought to legally protect the app against being used for nefarious purposes.
 
   For example, employers requiring their employees to receive a certain number of appreciations.
+
+  - We consider using a blockchain for data storage, rather than a database.
+
+  We could use event sourcing to record all user interactions, and all users would have a hash of all of the list of all of these records installed locally. It waits to be seen whether the amount of data would make this impractical, but we do not expect to store large amounts of user data. 
