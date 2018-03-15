@@ -6,7 +6,13 @@
 
   - Members join communities
 
-  - Members appreciate the actions of other members of their communities
+  - Members offer gifts
+
+  The [gift](https://en.wikipedia.org/wiki/Gift_economy) is a concept coming from cultural anthropology.
+
+  A gift can be anything, from taking another community member out to coffee to organizing a community activity
+
+  - Members appreciate the gifts of other members of their communities
 
   Optionally, at the end or beginning of the day/week members can receive a notification with reminders of what they appreciated that day/week.
 
@@ -14,7 +20,9 @@
 
   Individual members do not have a tally of their received appreciations, but communities have a tally of their collective appreciations.
 
-  Anonymity is very important. Users will be notified when their actions have been appreciated, but will not see that another's action has been appreciated (though the community appreciations will go up).
+  Perhaps we will also tally the gifts given within a community.
+
+  Anonymity is very important. Users will be notified when their gifts have been appreciated, but will not see that another's gift has been appreciated (though the community appreciations will go up).
 
   Communities do not compete, but will see how their score compares to the past. Are members giving more appreciations this week than last?
 
@@ -26,7 +34,7 @@
 
   To join a community may require a QR code or close proximity to someone already in the community.
 
-  To appreciate an action should also require some effort, perhaps a QR code or proximity to where the action was created.
+  To appreciate an gift should also require some effort, perhaps a QR code or proximity to where the gift was given.
 
   - We imagine that when you enter a place (a cafe, a school, a work place, etc.) you can optionally be notified of activities done by other members of your communities and of things there to appreciate.
 
@@ -40,8 +48,8 @@ Here we describe the specification of a beta or first release of the application
 
   - Users can create and join communities.
 
-  - There is one mechanism for adding items to be appreciated.
+  - There is one mechanism for adding gifts to be appreciated.
 
-    We have not yet decided whether users can offer actions themselves, or whether users can only offer actions performed by other users. If a user offers an action performed by another, it is counted as an appreciation.
+  - Users can give appreciations to the gifts of other users in their communities.
 
-  - Users can give appreciations to the actions of other users in their communities.
+  - Users are notified when their gifts are appreciated.
