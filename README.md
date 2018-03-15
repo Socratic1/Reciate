@@ -12,7 +12,7 @@ If you wish to make a contribution to this repository, we request that you follo
 
   - Experimenting in code
 
-  Feel free to make changes to the code in a new branch. It is of course difficult to design without the feedback offered by playing with code. Just understand, it is impossible that any changes to the code can be merge into master unless it is in full conformity with the design in the specification, or you can offer a valid justification explaining why it is not (for example, your implementation cuts a corner that would otherwise be very technically challenging, but is still usable; of course, these kinds of divergences from the specification would have to be approved reviewers).
+    Feel free to make changes to the code in a new branch. It is of course difficult to design without the feedback offered by playing with code. Just understand, it is impossible that any changes to the code can be merge into master unless it is in full conformity with the design in the specification, or you can offer a valid justification explaining why it is not (for example, your implementation cuts a corner that would otherwise be very technically challenging, but is still usable; of course, these kinds of divergences from the specification would have to be approved by reviewers).
 
   - Conversations with other contributors
 
@@ -20,11 +20,11 @@ If you wish to make a contribution to this repository, we request that you follo
 
   - Thoughtfully considering all of the comments made to the PR
 
-  - Applying the suggested changes to the PR until at least two fellow contributors, including an author of the repository, have accepted the PR, and none are rejecting it. 
+  - Applying the suggested changes to the PR until at least two fellow contributors, including an author of the repository, have accepted the PR, and none are rejecting it.
 
-  At the end of this design process, the specification of the feature or change you wish you implement should be merged into the README of the master branch. The README serves as a single source of truth for all design decisions. That means, once your specification is merged to master, it is now a part of the agreed 'truth' of this application. All further design decisions will refer to your specification as accepted cannon, unless it is changed in a future accepted PR.
+    At the end of this design process, the specification of the feature or change you wish you implement should be merged into the README of the master branch. The README serves as a single source of truth for all design decisions. That means, once your specification is merged to master, it is now a part of the agreed 'truth' of this application. All further design decisions will refer to your specification as accepted cannon, unless it is changed in a future accepted PR.
 
-  If your contribution does not effect the public consumption of the application (for example, code refactors), feel free to skip this step. But when in doubt, propose a specification.
+    If your contribution does not effect the public consumption of the application (for example, code refactors), feel free to skip this step. But when in doubt, propose a specification.
 
   2. Open a PR with the proposed changes, in full conformity with the specification, unless you have good reason to diverge from the specification
 
