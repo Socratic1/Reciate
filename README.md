@@ -33,3 +33,15 @@
   - The code is open source, so it is important to be mindful of how it can be abused. We ought to legally protect the app against being used for nefarious purposes.
 
   For example, employers requiring their employees to receive a certain number of appreciations.
+
+## The MVP (Minimal Viable Product)
+
+Here we describe the specification of a beta or first release of the application. What features are essential to providing value to our users? There are many features we would like to see eventually, but these are the features that are essential to having an app of value.
+
+  - Users can create and join communities.
+
+  - There is one mechanism for adding items to be appreciated.
+
+    We have not yet decided whether users can offer actions themselves, or whether users can only offer actions performed by other users. If a user offers an action performed by another, it is counted as an appreciation.
+
+  - Users can give appreciations to the actions of other users in their communities.
