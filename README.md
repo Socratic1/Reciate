@@ -8,7 +8,9 @@
 
   - Members offer gifts
 
-  The [gift](https://en.wikipedia.org/wiki/Gift_economy) is a concept coming from cultural anthropology. A gift is "a mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards." The exchange of gifts encourages [reciprocity](https://en.wikipedia.org/wiki/Reciprocity_(cultural_anthropology), giving freely in return, which strengthens community bonds and gives members a real sense of participation. 
+  The [gift](https://en.wikipedia.org/wiki/Gift_economy) is a concept coming from cultural anthropology. A gift is "a mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards." The exchange of gifts encourages [reciprocity](https://en.wikipedia.org/wiki/Reciprocity_(cultural_anthropology), giving freely in return, which strengthens community bonds and gives members a real sense of participation.
+
+  By coining actions as 'gifts', they take on an other or community centered focus. We will design a UI which encourages giving to ones community (whether it be giving in material goods, time, effort, etc). Thus, the app has two different, but complimentary central interactions: offering gifts to ones community and appreciating the gifts given by others to our communities. 
 
   A gift can be anything, from taking another community member out to coffee to organizing a community activity
 
