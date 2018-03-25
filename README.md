@@ -31,3 +31,5 @@ If you wish to make a contribution to this repository, we request that you follo
   - Like in step 1, this PR cannot be merged until it has been approved by all of the core contributors.
 
   - Step 2 doesn't necessarily have to take place after step 1, but it certainly cannot take place before step 1. The code changes can be in the same PR as the specification, in which case you cannot merge the PR unless both the specification and the changes have been approved.
+
+If you'd like to contribute, but aren't sure where to start, check out the current journal page in the project wiki, where we try to stay on top of all ongoing and upcoming issues. 
